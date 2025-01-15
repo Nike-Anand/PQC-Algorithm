@@ -5,6 +5,7 @@
         Our solution combines <strong>Lattice-Based Encryption</strong> and <strong>Code-Based Error Correction</strong> to create a lightweight, efficient, and secure encryption mechanism. 
         This hybrid approach leverages the strengths of both methods to withstand potential quantum computer attacks while ensuring reliability in noisy communication channels.
     </p>
+    <h4>We Also made a file encrypt and decrypt using our algorithm successfully</h4>
 
    <h2>Key Features</h2>
     <ul>
